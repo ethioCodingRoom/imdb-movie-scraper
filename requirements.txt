@@ -1,0 +1,16 @@
+# Core data handling
+pandas
+numpy
+
+# API requests
+requests
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter notebook support
+jupyter
+ipykernel
+
+
