@@ -1,9 +1,10 @@
-# 🎬 TMDb Movie Scraper & Data Analysis
+ ## 🎬 TMDb Movie Scraper & Data Analysis
 
-An automated Python pipeline designed to extract, clean, and analyze global movie metadata using the TMDb API.
+I built an **automated Python pipeline** that **extracts, cleans, and analyzes global movie data** using the TMDb API.  
 
-## 📌 Project Overview
-This project demonstrates a full data analytics lifecycle. It programmatically fetches 1,500+ records, stores them in a structured CSV, and utilizes **Pandas** for data processing.
+- Fetches **1,500+ movie records** and stores them in a **structured format**.  
+- Generates **actionable insights** using **Python and Pandas**.  
+- Demonstrates skills in **data scraping, ETL, data analysis, and visualization** — turning raw data into **valuable business insights**.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python 3.13
